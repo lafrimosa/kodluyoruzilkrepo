@@ -17,5 +17,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### LİCENSE 
 mit 
-image.png
+image.png (1 gün ss eklemek için uğraştım, olmadı.)
 
