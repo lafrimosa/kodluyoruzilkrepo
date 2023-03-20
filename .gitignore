@@ -1,0 +1,19 @@
+# Projede kullanılmayan geçici dosyaları hariç tut
+*.tmp
+*.bak
+*.swp
+
+# İmaj dosyalarını hariç tut
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# IDE ayar dosyalarını hariç tut
+.vscode/
+.idea/
+
+# Build dosyalarını hariç tut
+build/
+dist/
+node_modules/
